@@ -1,4 +1,4 @@
-<h1>Baralho de Signos :gemini:</h1>
+<h1>Baralhos de Signos :gemini:</h1>
 
 Projeto desenvolvido com react. É uma página que mostra os signos das pessoas que nasceram em determinadas datas. Nesse projeto tinha como objetivo práticar a metodologia do MVC, Model, View, Controller
 
